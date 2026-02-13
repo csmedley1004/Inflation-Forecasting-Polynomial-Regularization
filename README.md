@@ -13,6 +13,7 @@ Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 Methodology: Time-Series Analysis, K-Fold Cross-Validation, Hyperparameter Tuning (Alpha), L1/L2 Regularization.
 
 🔬 Key Research Questions & Findings
+
 The Complexity Paradox: My research tested whether higher-order interactions improve accuracy or simply introduce noise (overfitting).
 
 Regularization is Non-Negotiable: As model complexity increased via polynomial expansion, OLS performance degraded significantly. Lasso (L1) and Ridge (L2) models were utilized to "shrink" coefficients, effectively managing the bias-variance tradeoff.
