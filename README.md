@@ -1,9 +1,11 @@
 Forecasting Inflation: Polynomial Feature Engineering & Regularization
 
 📌 Project Overview
+
 This project investigates a central challenge in econometrics: Can machine learning improve short-term inflation forecasting by capturing non-linear relationships? Using global economic indicators (M2 Money Stock, Oil Prices, and CPI data), I developed a predictive framework that compares traditional Ordinary Least Squares (OLS) against Ridge and Lasso regression models. The core of the research focuses on the impact of Polynomial Feature Engineering—expanding the feature space to capture complex interactions between economic drivers.
 
 🛠️ Tech Stack
+
 Language: Python 3.x
 
 Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
@@ -20,14 +22,7 @@ Feature Selection: Lasso regression was specifically leveraged for its ability t
 📂 Repository Structure
 Inflation_Forecasting.ipynb: Complete Python implementation (Pre-processing → Modeling → Evaluation).
 
-
-
-🚀 How to Use
-Clone the repo.
-
-Install dependencies: pip install -r requirements.txt.
-
-Run the Notebook: Follow the step-by-step implementation of the polynomial transformations and model comparisons.
+Inflation_Forecasting_with_Polynomial_Regularized_Regression.pdf : Supplementary paper analyzing the results of project. 
 
 📖 Citation & Academic Context
 This project was developed as part of my MSc in Data Science at the University of Exeter. It bridges the gap between traditional economic theory and modern computational statistics.
