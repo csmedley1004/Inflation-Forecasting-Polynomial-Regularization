@@ -1,4 +1,5 @@
 Forecasting Inflation: Polynomial Feature Engineering & Regularization
+
 📌 Project Overview
 This project investigates a central challenge in econometrics: Can machine learning improve short-term inflation forecasting by capturing non-linear relationships? Using global economic indicators (M2 Money Stock, Oil Prices, and CPI data), I developed a predictive framework that compares traditional Ordinary Least Squares (OLS) against Ridge and Lasso regression models. The core of the research focuses on the impact of Polynomial Feature Engineering—expanding the feature space to capture complex interactions between economic drivers.
 
